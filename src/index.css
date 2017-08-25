@@ -48,3 +48,12 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.toggle-button {
+  margin-top: 10px;
+  outline: none;
+  border: none;
+  height: 30px;
+  width: 150px;
+  cursor: pointer;
+}
